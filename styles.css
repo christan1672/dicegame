@@ -1,0 +1,70 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  text-align: center;
+  padding: 20px;
+}
+
+
+/* Dice container styling */
+
+
+/* Style the button */
+.refresh-button {
+  display: inline-block;
+  margin-top: 20px; /* Adjust this value to add space between the dice and the button */
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #f1c40f; /* Button background color */
+  color: #fff; /* Button text color */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Optional: Button hover effect */
+.refresh-button:hover {
+  background-color: #e1b70e; /* Slightly darker shade on hover */
+}
+
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 20px;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+
+
